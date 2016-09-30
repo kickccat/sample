@@ -1,0 +1,27 @@
+## SPSS Modeler
+- neue Feature
+- Spark mit SPSS
+* Interface with Python script
+* MLlib mit Spark
+* Extensions
+* Interface durch BigSQL zu BigInsights
+* Community forum
+* Jupter Notebook
+* Lizenz frei und IBM Account nötig
+
+## Watson analytics
+* lokale Daten
+* Social meidia
+
+## Dataworks component architecture
+- Data science
+	* Scheduler
+	* Stream
+	* API
+	* Modellierung
+- Business analyst
+	* Dataflow
+- Developers
+	* Deployment
+- Data engineering
+	* Data analysis

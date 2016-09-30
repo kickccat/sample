@@ -1,2 +1,2 @@
-How many seas must a white dove sail
-Before she sleeps in the sand
+Life is short, you need Python.
+Simple is better than complex.

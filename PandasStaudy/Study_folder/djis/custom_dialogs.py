@@ -1,17 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-'''
-ZetCode wxPython tutorial
-
-In this code example, we create a
-custom dialog.
-
-author: Jan Bodnar
-website: www.zetcode.com
-last modified: July 2012
-'''
-
 import wx
 import quotespd
 
